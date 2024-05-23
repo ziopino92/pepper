@@ -1,0 +1,4 @@
+topic: ~NPerson()
+language: iti
+
+u:(["siamo in " "un tavolo per"] _* {persone}{["perfavore" "per favore"]}) certamente $nPerson = $1 $onStopped = 1
